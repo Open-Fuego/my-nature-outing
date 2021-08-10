@@ -1,4 +1,4 @@
-# My Nature Study Tool
+# My Nature Outing Tool
 
 Nature studies offer Finnish students time to engage with nature and to learn about their own environmental impact. Finnish schools adopt a transdisciplinary approach to understanding environmental education, which contrasts with the U.S. approaches, where environmental education is almost solely taught during science courses and touched on only briefly through earth science standards. By un-disciplining environmental education, Finnish citizens have some of the most advanced content knowledge as it relates to climate change, and their policies, cultural practices, and aesthetics reflect that knowledge.
 
@@ -43,4 +43,45 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 
 Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
+
+
+
+## Working with a Chromebook?
+
+1.	Open your Chromebook and Sign into your Gmail Account.
+
+2.	Go to GitHub.com, then search for/open My Nature Outing 
+3.	Click the green "Code" button and select "Download ZIP."
+ 
+4.	Find and open the “my-nature-outing-main-zip” file in “Files/Downloads.”Then drag this folder into “MyFiles”  
+
+5.	You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera.
+
+6.	Next in your browser, search for “Code Pad Code Editor” for Chromebook. There are other choices, but I find this the easiest to use. 
+
+7.	Use the Code Pad Text Editor to open the style.css and index.html documents from your project folder.
+
+8.	Start working with code by reading through the index.html where you'll find instructions on how to build your own web text!
+
+9.	Once you have modified content and transferred your assets to your project file, you will want to publish to the web. GitHub provides a good solution for "free." Create a GitHub account, then create a new repository for this webtext. Click "uploading an existing file," (push) your files into this repository. You'll need ALL of your assets to make your webtext function properly. Upload assets, then hit "Commit changes."
+
+10.	Now go to your repository "settings." Scroll down to "GitHub Pages" and change the setting from "none" to "main." Hit "Save"
+
+11.	This will provide you with a published GitHub URL.
+
+12.	Test the URL in a browser. Magic, no? Actually, it's computer science.
+
+
+## IPAD to Chromebook Help?
+
+1.	Select your best photos. Rename photos using CamelCase.  SimpleName.jpg
+
+2.	Connect Ipad to Chromebook.
+
+3.	In your Chromebook “Files,” find your Ipad device, locate image assets and copy them into your project file. 
+
+4.	Use a .wav audio recorder like Handy Recorder. Transfer your .wav audio files by emailing them to your gmail account then copying files into your project folder. Again, use CamelCase SimpleName.wav 
+
+
+
 
