@@ -80,7 +80,7 @@ Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-F
 
 3.	In your Chromebook “Files,” find your Ipad device, locate image assets and copy them into your project file. 
 
-4.	Use a .wav audio recorder like Handy Recorder. Transfer your .wav audio files by emailing them to your gmail account then copying files into your project folder. Again, use CamelCase SimpleName.wav 
+4.	For best quality, use a .wav audio recorder like Handy Recorder. Transfer your raw .wav audio files by emailing them to your gmail account then copying files into your project folder. Again, use CamelCase SimpleName.wav. Raw files may slow loading. In this case you might choose to convert your files to a lossy format such as mp3. 
 
 
 
