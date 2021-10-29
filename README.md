@@ -15,18 +15,18 @@ We've adapted the holistic, nature-centered methods we witnessed in the field to
 **-Inform Environmental Policy**
 
 
-Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mutimodal-nature-studies/)
+Learn more about our [Nature Study Project](https://sjquigley.github.io/mutimodal-nature-studies/)
 
 
 ## Get started!
 
-1. Go to repository My Nature Outing repository: [Here](https://github.com/Open-Fuego/my-nature-outing)
+1. Go to repository [My Nature Outing Repository](https://github.com/Open-Fuego/my-nature-outing)
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 
 3. Find this folder in your downloads. Move this folder to a secure place. You will return to this folder to manage your scripts and other assets like images, pdfs, etcetera. 
 
-4. Download and/or open a text editor like [brackets.io](https://brackets.io), [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org). 
+4. Download and/or open a text editor like [atom.io](https://atom.io), or [notepad-plus-plus.org](notepad-plus-plus.org). 
 
 5. Use the text editor to open the style.css and index.html documents from your project folder.  
 
@@ -42,7 +42,7 @@ Learn more about our Nature Study project: [HERE](https://sjquigley.github.io/mu
 
 
 
-Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
+Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/)
 
 
 
@@ -50,7 +50,8 @@ Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-F
 
 1.	Open your Chromebook and Sign into your Gmail Account.
 
-2.	Go to GitHub.com, then search for/open My Nature Outing 
+2.	Go to GitHub.com, then search for/open My Nature Outing
+ 
 3.	Click the green "Code" button and select "Download ZIP."
  
 4.	Find and open the “my-nature-outing-main-zip” file in “Files/Downloads.”Then drag this folder into “MyFiles”  
@@ -71,16 +72,6 @@ Check out our other cool coding tools [HERE](https://open-fuego.github.io/Open-F
 
 12.	Test the URL in a browser. Magic, no? Actually, it's computer science.
 
-
-## IPAD to Chromebook Help?
-
-1.	Select your best photos. Rename photos using CamelCase.  SimpleName.jpg
-
-2.	Connect Ipad to Chromebook.
-
-3.	In your Chromebook “Files,” find your Ipad device, locate image assets and copy them into your project file. 
-
-4.	For best quality, use a .wav audio recorder like Handy Recorder. Transfer your raw .wav audio files by emailing them to your gmail account then copying files into your project folder. Again, use CamelCase SimpleName.wav. Raw files may slow loading. In this case you might choose to convert your files to a lossy format such as mp3. 
 
 
 
