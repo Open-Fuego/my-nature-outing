@@ -1,6 +1,6 @@
 # My Nature Outing Tool
 
-![QR Code for My Nature Outing](http://my-nature-outing/qr.png)
+![QR Code for My Nature Outing](http://github.com/open-fuego/my-nature-outing/qr.png)
 
 Nature studies offer Finnish students time to engage with nature and to learn about their own environmental impact. Finnish schools adopt a transdisciplinary approach to understanding environmental education, which contrasts with the U.S. approaches, where environmental education is almost solely taught during science courses and touched on only briefly through earth science standards. By un-disciplining environmental education, Finnish citizens have some of the most advanced content knowledge as it relates to climate change, and their policies, cultural practices, and aesthetics reflect that knowledge.
 
